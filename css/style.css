@@ -95,6 +95,66 @@ h4,h2,h3{
     font-family: 'Nunito', sans-serif;
     color:#5a5c51;
 }
+/* The about section css which contains date and venue */
+.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+.tc {
+    text-align: center;
+}
+.f3 {
+    font-size: 2rem;
+}
+
+.red{
+    color: red;
+}
+.ph4 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.pv3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-bottom: 2rem;
+}
+.white {
+    color: black;
+}
+.b {
+    font-weight: bold;
+}
+.dib {
+    text-align: left;
+    display: inline-block;
+    margin: 5px;
+}
+.bw1 {
+    border-width: .5rem;
+}
+.b--white {
+    border-color:black;
+}
+.ba {
+    border-style: solid;
+    border-width: 3px;
+}
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+a {
+    color: #000;
+    text-decoration: none;
+}
+.center a:hover{
+    text-decoration: none;
+    color: white;
+    border: 3px solid red;
+    transition: 1s;
+}
+/* The about section will end here */
 /* <!--------- Landing page ends here -----------------> */
 
 /* Footer starts here*/
