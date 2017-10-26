@@ -71,9 +71,8 @@ h4,h2,h3{
 }
 .carousel-inner{
     width: 100%!important;
-    height: 70%;
+    height: 80%;
     margin:auto;
-    border-radius:10px;
 }
 .main #myCarousel {
     width: 80%;
